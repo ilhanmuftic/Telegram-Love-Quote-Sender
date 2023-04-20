@@ -1,0 +1,14 @@
+{
+  "name": "telegram-love-quote-sender",
+  "version": "1.0.0",
+  "description": "A love quote sender using the Telegram API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ilhan",
+  "license": "ISC",
+  "dependencies": {
+    "node-telegram-bot-api": "^0.61.0"
+  }
+}
